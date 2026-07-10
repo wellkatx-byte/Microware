@@ -1,4 +1,4 @@
-https://youtu.be/b6pptx9X6GM?si=DRX4fM2Egwdzk2mP
+https://www.youtube.com/channel/UC8URI-88rjsyQ7xHXAYsPng
 Feature Overview
 
 Hybrid Execution: Generative AI handles document analysis and reasoning, while a standalone deterministic code layer handles precise math execution (Zero AI Hallucinations).
